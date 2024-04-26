@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\bin\Debug\net7.0\HospitalCommunity.Infrastructure.deps.json
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\bin\Debug\net7.0\HospitalCommunity.Infrastructure.runtimeconfig.json
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\bin\Debug\net7.0\HospitalCommunity.Infrastructure.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\bin\Debug\net7.0\HospitalCommunity.Infrastructure.pdb
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\refint\HospitalCommunity.Infrastructure.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.pdb
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\HospitalCommunity.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Infrastructure\obj\Debug\net7.0\ref\HospitalCommunity.Infrastructure.dll

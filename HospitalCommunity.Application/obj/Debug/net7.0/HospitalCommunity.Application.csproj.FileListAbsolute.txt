@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\bin\Debug\net7.0\HospitalCommunity.Application.deps.json
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\bin\Debug\net7.0\HospitalCommunity.Application.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\bin\Debug\net7.0\HospitalCommunity.Application.pdb
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\refint\HospitalCommunity.Application.dll
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\HospitalCommunity.Application.pdb
+C:\Users\User\source\repos\HospitalCommunity\HospitalCommunity.Application\obj\Debug\net7.0\ref\HospitalCommunity.Application.dll
